@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/fwjevXN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Successfully assigned this ticket to an agent and also given them asses and permission to different department.
+I successfully assigned this ticket to an agent and was able to grant them access and permission to different departments.
 </p>
 <br />
 
@@ -39,7 +39,7 @@ Successfully assigned this ticket to an agent and also given them asses and perm
 <img src="https://imgur.com/LEGu1Mn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Was able to assign it to a department and also set the SLA plan to Sev-B (4 hours, 24/7).
+Once department was assigned, the SLA plan was set to Sev-B (4 hours, 24/7).
 </p>
 <br />
 
